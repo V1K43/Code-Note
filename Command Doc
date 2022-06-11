@@ -1,0 +1,3 @@
+* Start xampp server in Linux
+	1: Open terminal write this cammand
+		->sudo /opt/lampp/lampp start
