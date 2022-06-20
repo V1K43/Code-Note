@@ -18,3 +18,7 @@
 *GIT
 	ls -lart (Shows Hidden files)
 	touch about.html (Create Blank file)
+	git add filename (Single Untracked File Staging)
+	git add -A (All Untracked File Staging)
+	git commit -m "commit message" (To Commit staged Files)
+	git checkout about.html (Replace abount file code with last commit code of same file)
