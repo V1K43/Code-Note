@@ -22,3 +22,5 @@
 	git add -A (All Untracked File Staging)
 	git commit -m "commit message" (To Commit staged Files)
 	git checkout about.html (Replace abount file code with last commit code of same file)
+	git diff (to get diffrence of a file  / before edit after edit)
+	git checkout -f (match file with last commit)
