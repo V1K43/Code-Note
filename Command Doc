@@ -1,5 +1,6 @@
 * Start xampp server in Linux
 	1: Open terminal write this cammand
+		->sudo systemctl stop apache2.service (To kill Defult Apache in linux)
 		->sudo /opt/lampp/lampp start
 
 * Course Link
@@ -24,3 +25,5 @@
 	git checkout about.html (Replace abount file code with last commit code of same file)
 	git diff (to get diffrence of a file  / before edit after edit)
 	git checkout -f (match file with last commit)
+
+*CMSd
