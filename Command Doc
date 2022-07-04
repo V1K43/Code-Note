@@ -26,4 +26,6 @@
 	git diff (to get diffrence of a file  / before edit after edit)
 	git checkout -f (match file with last commit)
 
-*CMSd
+
+*BINARY Search
+*Linear Search
